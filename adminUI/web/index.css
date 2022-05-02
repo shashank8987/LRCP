@@ -1,0 +1,10 @@
+.abc{
+
+    margin-left: 22%; 
+    margin-right: 22%; 
+    /* background-color: aquamarine; */
+    margin-top: 4%;
+}
+body{
+    background-image: url("/adminUI/web/img/back.jpg");
+}
