@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb5eb620-bd9a-4594-8b6f-a4f309e13817" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/adminUI/web/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/adminUI/web/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adminUI/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/adminUI/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adminUI/web/leave.html" beforeDir="false" afterPath="$PROJECT_DIR$/adminUI/web/leave.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userUI/Complaint.html" beforeDir="false" afterPath="$PROJECT_DIR$/userUI/Complaint.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userUI/LeaveRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/userUI/LeaveRequest.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D5B6hpNtBgnxBUT24PPdX6BLi0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb5eb620-bd9a-4594-8b6f-a4f309e13817" name="Changes" comment="" />
+      <created>1659978898375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659978898375</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -100,18 +100,14 @@
         </div>
     </div>
   </section>
-
-  <!-- <div class="inline">
-    <div  class="center">
-        
-        <h1 id="load">Your page is loading</h1>
-         <h2>Home of Dev Shots Loader</h2> -->
-
-    <!-- </div>  
-       <p class="spinner" id="spinner"><i class="fa fa-spinner fa-5x"></i></p>
-</div> --> 
-
-
+  <div class="loader-wrapper">
+  <span class="loader"><span class="loader-inner"></span></span>
+</div>
+<script>
+  $(window).on("load",function(){
+    $(".loader-wrapper").fadeOut("slow");
+  })
+</script>
   <script type="module" src="index.js"></script>
 </body>
 <script>
